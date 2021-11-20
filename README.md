@@ -22,7 +22,7 @@ Movies Will Look like this:
 <img src="https://miro.medium.com/max/700/1*UGUPL7S1_0uLRAFEYDV_Bw.jpeg"></img>
  
 TV Shows/Episodes will look like this:
-
+ 
 <img src="https://miro.medium.com/max/700/1*eyx8dybHw6kB0ftIKGYjoA.jpeg"></img>
 
 Click on the PlexDwnld Button on the Toolbar and you will be redirected to download the video.
